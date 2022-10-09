@@ -23,6 +23,7 @@ Descripción:
   - [Ahora el UI](./5.-ui.md)
 
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
+REALIZAR LAS PRACTICAS Y CHECAR MAS EL CONTENIDO PARA AVANZAR MAS RAPIDO
 
 **_¡Vámonos hasta el espacio y más allá Explorers!_**
 
